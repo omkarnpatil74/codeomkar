@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pdfplumber
+chromadb
+pydantic
+python-multipart
+requests
